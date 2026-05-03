@@ -69,12 +69,12 @@ export default function LandingPage() {
       carouselItems={[
         {
           id: "1",
-          imageSrc: "http://img.b2bpic.net/free-photo/computer-keyboard-with-mouse-cassette-pink-background_185193-162285.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/computer-keyboard-with-mouse-cassette-pink-background_185193-162285.jpg?_wi=1",
           imageAlt: "Premium tech lifestyle",
         },
         {
           id: "2",
-          imageSrc: "http://img.b2bpic.net/free-photo/still-life-device-table_23-2150994395.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/still-life-device-table_23-2150994395.jpg?_wi=1",
           imageAlt: "Modern office gadgets",
         },
         {
@@ -130,7 +130,7 @@ export default function LandingPage() {
           description: "Direct to your door quickly.",
           bentoComponent: "reveal-icon",
           icon: Zap,
-          imageSrc: "http://img.b2bpic.net/free-photo/computer-keyboard-with-mouse-cassette-pink-background_185193-162285.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/computer-keyboard-with-mouse-cassette-pink-background_185193-162285.jpg?_wi=2",
           imageAlt: "minimalist technology company brand logo",
         },
         {
@@ -138,7 +138,7 @@ export default function LandingPage() {
           description: "We are here for you 24/7.",
           bentoComponent: "reveal-icon",
           icon: Shield,
-          imageSrc: "http://img.b2bpic.net/free-photo/still-life-device-table_23-2150994395.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/still-life-device-table_23-2150994395.jpg?_wi=2",
           imageAlt: "minimalist technology company brand logo",
         },
       ]}
